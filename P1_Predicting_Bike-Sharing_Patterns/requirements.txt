@@ -12,7 +12,7 @@ ipywidgets==6.0.0
 MarkupSafe==1.0
 matplotlib==2.0.0
 mistune==0.8.1
-Jinja2==2.9.5
+Jinja2==2.10.1
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.0.0
